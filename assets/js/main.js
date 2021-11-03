@@ -166,6 +166,7 @@
 					$img.hide();
 
 			});
+			
 
 	// Features.
 		$('.features')
